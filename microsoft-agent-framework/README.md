@@ -39,6 +39,7 @@ An agent that maintains conversation context using threads, allowing users to re
 1. `basic_food_agent.ipynb` - Simple food suggestion agent
 2. `agent_with_function_tools.ipynb` - Advanced agent with API integration
 3. `multi_turn_conversation_agent.ipynb` - Context-aware conversational agent
+4. `human_in_the_loop.ipynb` - Agent with human in the loop for moderation
 
 Each notebook demonstrates different aspects of building AI agents with the Microsoft Agent Framework.
 
