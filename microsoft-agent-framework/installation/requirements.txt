@@ -4,3 +4,4 @@ agent-framework-devui @ git+https://github.com/microsoft/agent-framework.git@mai
 agent-framework-ag-ui @ git+https://github.com/microsoft/agent-framework.git@main#subdirectory=python/packages/ag-ui
 agent-framework-anthropic @ git+https://github.com/microsoft/agent-framework.git@main#subdirectory=python/packages/anthropic
 agent-framework-ollama @ git+https://github.com/microsoft/agent-framework.git@main#subdirectory=python/packages/ollama
+agent-framework-redis @ git+https://github.com/microsoft/agent-framework.git@main#subdirectory=python/packages/redis
